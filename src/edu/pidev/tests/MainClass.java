@@ -21,8 +21,8 @@ public class MainClass {
         
 ////          Users u1 = new Users("Abdelaziz", "M");
 ////          Users u2 = new Users("Tarak", "Ayari");
-//         Users u3 = new Users("Samir", "Sankou7");
-          Users u4 = new Users("ahlem", "abidi");
+//  /       Users u3 = new Users("Samir", "Sankou7");
+          Users u4 = new Users("ahlem3", "abidi3");
         
         ServiceUsers su = new ServiceUsers();
         
@@ -30,7 +30,7 @@ public class MainClass {
 //        su.ajouter(u2);
 //        su.ajouter2(u3);
 //        su.ajouter2(u4);*/
-   su.modifier(u4);
+ su.modifier(u4);
 //su.supprimer(4);
 //        
       //  su.getOneById(1);
